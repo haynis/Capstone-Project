@@ -1,4 +1,5 @@
-#Deto (Deteksi Tumor Otak) is an application that is used to classify brain MRI photos to determine whether this photo has a brain tumor?
+**B21-CAP0180-Capstone-Project**
+**Deto (Deteksi Tumor Otak) is an application that is used to classify brain MRI photos to determine whether this photo has a brain tumor?**
 
 There are 4 labels, namely:
 
